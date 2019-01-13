@@ -1,0 +1,29 @@
+{
+  "name": "gladys-sfrtvplus",
+  "version": "1.0.0",
+  "description": "Control SFR tv decoder on Gladys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentBesseau/gladys-sfrtvplus.git"
+  },
+  "keywords": [
+    "Gladys",
+    "television",
+    "SFR",
+    "TV PLUS",
+    "stb7"
+  ],
+  "author": "Vincent Besseau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentBesseau/gladys-sfrtvplus/issues"
+  },
+  "homepage": "https://github.com/vincentBesseau/gladys-sfrtvplus#readme",
+  "dependencies": {
+    "ws": "^4.1.0"
+  }
+}
